@@ -75,4 +75,4 @@ The `Strings` class extends `SortData` and sorts a string. It compares character
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under **Private use only**.
